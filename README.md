@@ -1,4 +1,8 @@
-# Findings in the Report
+# Project brief
+
+ServiceSpot, an IT company, has approached you to help them analyze their call center data. They receive daily calls from customers and are seeking a streamlined solution to consolidate and analyze their data effectively. Your objective is to create a comprehensive analytics solution that integrates multiple data files, enabling them to generate visually appealing reports for performance monitoring and strategic insights.
+
+# Findings in the PBI report
 
 ## I. Load & Data Transformation:
 
